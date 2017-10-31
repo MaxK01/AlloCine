@@ -18,7 +18,6 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
         <title>TESTGITHUB</title>
         
         <script type="text/javascript" src="lesFonctions.js"></script>
